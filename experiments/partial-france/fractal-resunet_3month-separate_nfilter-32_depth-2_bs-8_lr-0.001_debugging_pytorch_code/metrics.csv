@@ -1,0 +1,2 @@
+train_loss,train_acc,train_f1,train_mcc,train_dice,val_loss,val_acc,val_f1,val_mcc,val_dice
+0.07319249870146022,7710603,0,0,0,0.06393232010304928,2356765,0,0,0
